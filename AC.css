@@ -1,0 +1,17 @@
+body{
+    background-color: #FF4081;
+    text-align: center;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px solid black;
+
+}
+
+#number_of_objects{
+    background-color: #8C9EFF;
+    color: black;
+    font-size: 20px;
+    width: 70%;
+    margin-left: 200px;
+}
